@@ -1,6 +1,6 @@
 # ORCID Brasil: dados da análise da distribuição de docentes brasileiros no ORCID
 
-Este repositório contém os dados brutos utilizados em um estudo cujo objetivo foi explorar a cobertura da base ORCID no Brasil em relação à comunidade acadêmica, focando no caso de professores em instituições de ensino superior (IES). Pontualmente, explorou-se: 
+Este repositório contém os dados brutos utilizados em um estudo cujo objetivo foi explorar a cobertura da base ORCID no Brasil em relação à comunidade acadêmica. Pontualmente, explorou-se: 
 
 - **Ocupação**: Classificação dos docentes por papéis de atuação.
 - **Localização**: Distribuição geográfica dos docentes por regiões e estados do Brasil.
